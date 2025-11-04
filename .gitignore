@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Runtime data (OpenALPR)
+runtime_data/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
