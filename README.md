@@ -6,7 +6,16 @@ This project is part of my master's thesis:
 “License Plate Detection and Enhancement” – Üsküdar University (Supervised by Dr. Ihab Elaff)
 
 ---
+## Academic Background
 
+This project was developed as part of my Master's thesis research:
+
+"License Plate Detection and Enhancement"
+
+The research manuscript was prepared and submitted for academic publication review.
+
+The public repository contains a demonstration version of the implemented system.
+---
 ## 🧩 Overview
 
 This is the minimal version of my license plate detection system.  
